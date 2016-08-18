@@ -20,3 +20,6 @@ E:\02 Personal Code\05 C#\01 Learn\Learn\ShadowConfigPing\bin\Debug\Newtonsoft.J
 E:\02 Personal Code\05 C#\01 Learn\Learn\ShadowConfigPing\obj\Debug\WindowsFormsApplication1.Main.resources
 E:\02 Personal Code\05 C#\01 Learn\Learn\ShadowConfigPing\obj\Debug\ShadowSockPing.Properties.Resources.resources
 E:\02 Personal Code\05 C#\01 Learn\Learn\ShadowConfigPing\obj\Debug\ShadowConfigPing.csproj.GenerateResource.Cache
+E:\02 Personal Code\05 C#\git-csharp-learn\shadowsockping\ShadowConfigPing\bin\Debug\ShadowSockPing.exe.config
+E:\02 Personal Code\05 C#\git-csharp-learn\shadowsockping\ShadowConfigPing\obj\Debug\ShadowSockPing.exe
+E:\02 Personal Code\05 C#\git-csharp-learn\shadowsockping\ShadowConfigPing\obj\Debug\ShadowSockPing.pdb
